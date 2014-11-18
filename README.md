@@ -1,4 +1,4 @@
 CodeFellowsLibraryTask
 ======================
 
-A model of a library
+A model of a library, made with Python.
